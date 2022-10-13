@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+**/._*
+.gradle
+.settings
+bin
+comments.iml
+comments.ipr
+comments.iws
+build
